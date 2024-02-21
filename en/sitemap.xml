@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/en/</loc>
+    <loc>https://berlinwong.github.io/en/</loc>
   </url><url>
-    <loc>https://example.org/en/categories/</loc>
+    <loc>https://berlinwong.github.io/en/categories/</loc>
   </url><url>
-    <loc>https://example.org/en/series/</loc>
+    <loc>https://berlinwong.github.io/en/series/</loc>
   </url><url>
-    <loc>https://example.org/en/tags/</loc>
+    <loc>https://berlinwong.github.io/en/tags/</loc>
   </url><url>
-    <loc>https://example.org/en/posts/tech/</loc>
+    <loc>https://berlinwong.github.io/en/posts/tech/</loc>
   </url><url>
-    <loc>https://example.org/en/posts/test/</loc>
+    <loc>https://berlinwong.github.io/en/posts/test/</loc>
   </url><url>
-    <loc>https://example.org/en/posts/</loc>
+    <loc>https://berlinwong.github.io/en/posts/</loc>
   </url><url>
-    <loc>https://example.org/en/posts/life/</loc>
+    <loc>https://berlinwong.github.io/en/posts/life/</loc>
   </url><url>
-    <loc>https://example.org/en/posts/read/</loc>
+    <loc>https://berlinwong.github.io/en/posts/read/</loc>
   </url>
 </urlset>
